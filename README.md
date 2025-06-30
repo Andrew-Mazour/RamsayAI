@@ -14,6 +14,9 @@ Ramsay AI is a smart, AI-powered meal planner that revolutionizes how you think 
 - **📅 Meal Planning**: Receive full weekly meal prep plans (3 meals/day) based on what's on hand
 - **🔍 Smart Search**: Find recipes by ingredients, macros, or dietary preferences
 
+## Demo
+https://github.com/user-attachments/assets/3e755779-555c-4d45-93b1-2077aad89501
+
 ## ✨ Key Features
 
 ### 🖼️ **Image Upload & Food Detection**
@@ -206,5 +209,3 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 **Built with ❤️ for everyone who's ever stared at a full fridge and thought "there's nothing to eat"**
 
 *Ramsay AI - Where AI meets your kitchen*
-
-https://github.com/user-attachments/assets/3e755779-555c-4d45-93b1-2077aad89501
